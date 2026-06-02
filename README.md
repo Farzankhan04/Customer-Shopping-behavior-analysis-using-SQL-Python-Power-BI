@@ -189,21 +189,6 @@ An interactive Power BI dashboard was developed to visualize customer behavior a
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_behavior_sql_queries.sql
-├── PowerBI_Dashboard.pbix
-├── Customer Shopping Behavior Analysis.pdf
-├── Business Problem Document.pdf
-└── README.md
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 * Data Cleaning & Transformation
